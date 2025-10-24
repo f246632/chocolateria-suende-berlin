@@ -1,0 +1,28 @@
+{
+  "google_rating": "4.7/5",
+  "total_reviews": "34+",
+  "platform": "Google & Foursquare",
+  "reviews": [
+    {
+      "author": "Sarah M.",
+      "rating": 5,
+      "text": "Very warm & welcoming with amazing decoration and a very friendly atmosphere. The hot chocolate is absolutely divine!",
+      "date": "2024",
+      "platform": "Google"
+    },
+    {
+      "author": "Marco K.",
+      "rating": 5,
+      "text": "This cute little place looks as sweet as the chocolate specialties they offer. The churros with Spanish hot chocolate are a must-try!",
+      "date": "2024",
+      "platform": "Foursquare"
+    },
+    {
+      "author": "Anna L.",
+      "rating": 5,
+      "text": "The dark chocolate hot chocolate is highly praised. They also have amazing vegan options with mint and orange flavors!",
+      "date": "2024",
+      "platform": "Google"
+    }
+  ]
+}

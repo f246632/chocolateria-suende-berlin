@@ -1,0 +1,92 @@
+{
+  "categories": [
+    {
+      "name": "Hot Chocolate Specialties",
+      "description": "Handcrafted hot chocolate made with premium Belgian chocolate",
+      "items": [
+        {
+          "name": "Classic Dark Hot Chocolate",
+          "description": "Rich 70% dark chocolate, perfectly smooth",
+          "popular": true
+        },
+        {
+          "name": "Mint Hot Chocolate",
+          "description": "Dark chocolate infused with fresh mint",
+          "vegan": true
+        },
+        {
+          "name": "Orange Hot Chocolate",
+          "description": "Belgian chocolate with natural orange essence",
+          "vegan": true
+        },
+        {
+          "name": "Spanish Hot Chocolate",
+          "description": "Thick, traditional style - perfect with churros",
+          "popular": true
+        }
+      ]
+    },
+    {
+      "name": "Coffee & Beverages",
+      "description": "Quality coffee and specialty drinks",
+      "items": [
+        {
+          "name": "Espresso",
+          "description": "Single or double shot"
+        },
+        {
+          "name": "Cappuccino",
+          "description": "Classic Italian style"
+        },
+        {
+          "name": "Latte",
+          "description": "Smooth and creamy"
+        },
+        {
+          "name": "Americano",
+          "description": "Bold and strong"
+        }
+      ]
+    },
+    {
+      "name": "Sweet Treats",
+      "description": "Handmade cakes and chocolate specialties",
+      "items": [
+        {
+          "name": "Churros",
+          "description": "Crispy Spanish churros with chocolate dipping sauce",
+          "popular": true
+        },
+        {
+          "name": "Chocolate Brownie",
+          "description": "Fudgy, rich, and decadent"
+        },
+        {
+          "name": "Berliner",
+          "description": "Traditional German filled doughnut"
+        },
+        {
+          "name": "Mint Chocolate Cake",
+          "description": "Layers of chocolate cake with mint cream"
+        },
+        {
+          "name": "Chocolate Delice",
+          "description": "Premium chocolate mousse cake"
+        },
+        {
+          "name": "Sugared Almonds",
+          "description": "Classic chocolate-covered almonds"
+        }
+      ]
+    }
+  ],
+  "hours": {
+    "monday": "11:00 - 19:00",
+    "tuesday": "11:00 - 19:00",
+    "wednesday": "11:00 - 19:00",
+    "thursday": "11:00 - 19:00",
+    "friday": "11:00 - 19:00",
+    "saturday": "11:00 - 19:00",
+    "sunday": "12:00 - 18:00"
+  }
+}
